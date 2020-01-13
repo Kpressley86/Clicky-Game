@@ -98,6 +98,7 @@ class App extends Component {
               year={GIJoe.year}
               name={GIJoe.name}
               image={GIJoe.image}
+              faction={GIJoe.faction}
               clickedImage={this.clickedImage}
             />
           ))}

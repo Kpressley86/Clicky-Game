@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "faction": "G.I. Joe",
         "name": "Duke",
         "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/GijoeDuke.JPG",
         "job": "First Sergeant",
@@ -8,6 +9,7 @@
     },
     {
         "id": 2,
+        "faction": "G.I. Joe",
         "name": "Snake Eyes",
         "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Snake_Eyes_Arashikage_Showdown.jpg",
         "job": "Commando",
@@ -15,27 +17,31 @@
     },
     {
         "id": 3,
-        "name": "Cover Girl",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Gijoecovergirl.jpg",
-        "job": "Wolverine Driver",
-        "year": "1983"
+        "faction": "G.I. Joe",
+        "name": "Scarlett",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/GIJoeDeclassified2B.png",
+        "job": "Counter Intelligence",
+        "year": "1982"
     },
     {
         "id": 4,
-        "name": "Doc",
-        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/GIJOEDOC.png",
-        "job": "Medic",
-        "year": "1983"
+        "faction": "Cobra",
+        "name": "Cobra Commander",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Cobra_commander.jpg",
+        "job": "Leader of Cobra Command",
+        "year": "1982"
     },
     {
         "id": 5,
-        "name": "Snow Job",
-        "image": "https://upload.wikimedia.org/wikipedia/en/b/be/SnowJobGIJoe.jpg",
-        "job": "Arctic Trooper",
-        "year": "1983"
+        "faction": "Cobra",
+        "name": "Baroness",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/GIJoeBaronessRAH.jpg/220px-GIJoeBaronessRAH.jpg",
+        "job": "Intelligence",
+        "year": "1982"
     },
     {
         "id": 6,
+        "faction": "G.I. Joe",
         "name": "Torpedo",
         "image": "https://upload.wikimedia.org/wikipedia/en/0/06/TorpedoGIJoe.jpg",
         "job": "SEAL Demolitions Expert",
@@ -43,13 +49,15 @@
     },
     {
         "id": 7,
-        "name": "Wild Bill",
-        "image": "https://upload.wikimedia.org/wikipedia/en/3/33/WildBill1121.jpg",
-        "job": "Helicopter Pilot",
-        "year": "1983"
+        "faction": "G.I. Joe",
+        "name": "Jinx",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Jinx_%28G.I._Joe%29.png/220px-Jinx_%28G.I._Joe%29.png",
+        "job": "Covert Infiltration Specialist",
+        "year": "1987"
     },
     {
         "id": 8,
+        "faction": "G.I. Joe",
         "name": "Deep Six",
         "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/DeepSixRAH.jpg",
         "job": "S.H.A.R.C. Driver",
@@ -57,6 +65,7 @@
     },
     {
         "id": 9,
+        "faction": "G.I. Joe",
         "name": "Bazooka",
         "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/BazookaGIJoe.jpg",
         "job": "Missile Specialist",
@@ -64,6 +73,7 @@
     },
     {
         "id": 10,
+        "faction": "G.I. Joe",
         "name": "Lady Jaye",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Ladyjaye-dd.jpg",
         "job": "Covert Operations",
@@ -71,16 +81,18 @@
     },
     {
         "id": 11,
-        "name": "Sgt. Slaughter",
-        "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/SgtSlaughterGijoe1.png",
-        "job": "Drill Instructor",
-        "year": "1985"
+        "faction": "Cobra",
+        "name": "Storm Shadow",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/StormshadowCobra.jpg/220px-StormshadowCobra.jpg",
+        "job": "Ninja",
+        "year": "1984"
     },
     {
         "id": 12,
-        "name": "Sci-Fi",
-        "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sci-Fi1195.jpg",
-        "job": "Laser Trooper",
-        "year": "1986"
+        "faction": "G.I. Joe",
+        "name": "Rip Cord",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Ripcord.jpg",
+        "job": "HALO Jumper",
+        "year": "1984"
     }
 ]

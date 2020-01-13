@@ -13,6 +13,8 @@ const Wrapper = props => (
                     <br/>
                     {props.name}
                     <br/>
+                    {props.faction}
+                    <br/>
                     {props.job}
                     <br/>
                 </div>
