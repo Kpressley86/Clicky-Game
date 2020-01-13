@@ -13,6 +13,19 @@
   }
 }
 
+.JOEdiv {
+  position: relative;
+  padding-top: 25%;
+}
+
+.JOE {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -26,13 +39,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

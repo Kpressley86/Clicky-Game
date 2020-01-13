@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Duke",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/GijoeDuke.JPG",
+        "job": "First Sergeant",
+        "year": "1983"
+    },
+    {
+        "id": 2,
+        "name": "Snake Eyes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Snake_Eyes_Arashikage_Showdown.jpg",
+        "job": "Commando",
+        "year": "1982"
+    },
+    {
+        "id": 3,
+        "name": "Cover Girl",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Gijoecovergirl.jpg",
+        "job": "Wolverine Driver",
+        "year": "1983"
+    },
+    {
+        "id": 4,
+        "name": "Doc",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/GIJOEDOC.png",
+        "job": "Medic",
+        "year": "1983"
+    },
+    {
+        "id": 5,
+        "name": "Snow Job",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/be/SnowJobGIJoe.jpg",
+        "job": "Arctic Trooper",
+        "year": "1983"
+    },
+    {
+        "id": 6,
+        "name": "Torpedo",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/06/TorpedoGIJoe.jpg",
+        "job": "SEAL Demolitions Expert",
+        "year": "1983"
+    },
+    {
+        "id": 7,
+        "name": "Wild Bill",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/33/WildBill1121.jpg",
+        "job": "Helicopter Pilot",
+        "year": "1983"
+    },
+    {
+        "id": 8,
+        "name": "Deep Six",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/DeepSixRAH.jpg",
+        "job": "S.H.A.R.C. Driver",
+        "year": "1984"
+    },
+    {
+        "id": 9,
+        "name": "Bazooka",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/BazookaGIJoe.jpg",
+        "job": "Missile Specialist",
+        "year": "1985"
+    },
+    {
+        "id": 10,
+        "name": "Lady Jaye",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Ladyjaye-dd.jpg",
+        "job": "Covert Operations",
+        "year": "1984"
+    },
+    {
+        "id": 11,
+        "name": "Sgt. Slaughter",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/SgtSlaughterGijoe1.png",
+        "job": "Drill Instructor",
+        "year": "1985"
+    },
+    {
+        "id": 12,
+        "name": "Sci-Fi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sci-Fi1195.jpg",
+        "job": "Laser Trooper",
+        "year": "1986"
+    }
+]
