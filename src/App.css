@@ -1,18 +1,3 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .JOEdiv {
   position: relative;
   padding-top: 25%;
@@ -26,17 +11,41 @@
   height: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.alert-danger {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: #fff;
+   display: inline; 
+  background-color: red !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+  margin: auto; 
 }
 
-.App-link {
-  color: #61dafb;
+.alert-danger:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+.alert-success {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: #fff;
+  display: inline; 
+  background-color: blue !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+}
+
+.alert-success:hover {
+  color: #fff;
+  background-color: #000 !important;
 }

@@ -11,17 +11,17 @@
 
 .card:hover {
   cursor: pointer;
-  transform: scale(1.3);
+  transform: scale(1.1);
 } 
 
 .card .img-container > img {
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
 }
 
 .card .img-container:hover > img {
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   filter: invert(100%);
   background-repeat: no-repeat;
 }
@@ -43,7 +43,6 @@
   height: 0;
   transition: 0.5s ease;
   opacity: 0.8;
-  cursor: pointer;
 }
 
 .text {

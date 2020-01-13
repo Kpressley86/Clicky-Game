@@ -10,9 +10,9 @@ function Header(props) {
                         clicking the same one twice!</h2>
                 </div>
                 <div className="col-md-5 col-right">
-                    <h2>Your Current Score: {props.score}</h2>
-                    <br/>
-                    <h2>Your Best Score: {props.topScore}</h2>
+                    <h3>Your Current Score: {props.score}</h3>
+                    <br/><br/>
+                    <h3>Your Best Score: {props.topScore}</h3>
                 </div>
             </div>
         </header>

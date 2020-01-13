@@ -80,7 +80,7 @@ class App extends Component {
           You already clicked on this one, try again...
           </div>
         <div
-          className="alert alert-success"
+          className="alert alert-primary"
           style={{ opacity: this.state.showSuccess }}
         >
           WOW, There's no way you did this without cheating!
