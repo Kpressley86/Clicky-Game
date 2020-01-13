@@ -4,14 +4,16 @@ h3 {
   background-color: #fff;
   display: inline;
   cursor: default;
+  border-radius: 10px;
 }
 
 h2 {
   font-size: 2.5em;
   text-shadow: 1px 1px rgb(0, 38, 255);
   background-color: #fff;
-  display: inline;
+  display: inline-block;
   cursor: default;
+  border-radius: 10px;
 }
 
 h3:hover {
@@ -23,7 +25,7 @@ h3:hover {
 h2:hover {
   color: #fff;
   background-color: red;
-  display: inline;
+  display: inline-block;
 }
 
 .score {
