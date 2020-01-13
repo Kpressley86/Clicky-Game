@@ -1,6 +1,7 @@
 .JOEdiv {
   position: relative;
   padding-top: 25%;
+  margin-bottom: 40px;
 }
 
 .JOE {
@@ -11,19 +12,14 @@
   height: auto;
 }
 
+
 .alert-danger {
   font-family: "Noto Serif SC", serif;
   text-transform: uppercase;
+  text-align: center;
   color: #fff;
-   display: inline; 
+  display: inline; 
   background-color: red !important;
-  border-radius: 0 !important;
-  border-color: none !important;
-  border: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  cursor: default;
-  margin: auto; 
 }
 
 .alert-danger:hover {
@@ -34,15 +30,10 @@
 .alert-success {
   font-family: "Noto Serif SC", serif;
   text-transform: uppercase;
+  text-align: center;
   color: #fff;
   display: inline; 
   background-color: blue !important;
-  border-radius: 0 !important;
-  border-color: none !important;
-  border: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  cursor: default;
 }
 
 .alert-success:hover {
