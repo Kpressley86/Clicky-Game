@@ -1,6 +1,6 @@
 # `G.I. Joe Click-Guess-Game`
 
-[Link To Deployed Site!](http://stormy-fjord-58028.herokuapp.com/)
+[Link To Deployed Site!](http://secure-temple-86303.herokuapp.com/)
 
 [Link To My Portfolio!](http://kelly-pressley.herokuapp.com/)
 
